@@ -1,6 +1,6 @@
 ---
 - name: loop test
-  hosts: 192.168.45.168
+  hosts: 192.168.45.228
   remote_user: root
   gather_facts: false
   vars:
