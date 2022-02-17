@@ -7,5 +7,5 @@
     register: result
     ignore_errors: True
 
-  - debuh:
+  - debug:
       var=result
